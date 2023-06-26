@@ -1,7 +1,22 @@
-# ProtectProcess4.0
+# 项目名称
 
-WINDOWS 7 ---- WINDOWS 11的进程保护工具，目前只适用于云服务器
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-可以进行无法关闭进程的设置
+项目简要描述
 
-关闭目标进程3min后,本地机器重启
+## 功能特性
+
+- 特性1：描述特性1的功能
+- 特性2：描述特性2的功能
+
+## 安装
+
+1. 克隆项目到本地
+2. 安装依赖：`npm install`
+
+## 使用方法
+
+在终端中运行以下命令启动项目：
+
+```bash
+npm start
